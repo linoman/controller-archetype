@@ -1,4 +1,4 @@
-package $net.linoman;
+package ${groupId};
 
 import junit.framework.Test;
 import junit.framework.TestCase;
