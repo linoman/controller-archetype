@@ -1,0 +1,9 @@
+<archetype>
+  <id>controller-archetype</id>
+  <sources>
+    <source>src/main/java/WelcomeController.java</source>
+  </sources>
+  <testSources>
+    <source>src/test/java/WelcomeControllerTest.java</source>
+  </testSources>
+</archetype>
