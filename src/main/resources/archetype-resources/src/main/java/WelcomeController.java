@@ -6,8 +6,8 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.bigle.conversion.entities.Response;
-import com.bigle.conversion.exceptions.ApiError;
+import ${groupId}.conversion.entities.Response;
+import ${groupId}.conversion.exceptions.ApiError;
 
 import io.swagger.annotations.ApiOperation;
 import io.swagger.annotations.ApiResponse;
